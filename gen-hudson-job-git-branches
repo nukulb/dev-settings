@@ -1,0 +1,32 @@
+#!/bin/bash
+
+hudson_url=http://localhost:9000/
+args=("$@")
+webworksGit="WebWorks-API-Docs/" 
+project_prefix="${args[0]}"
+stable_branch="${project_prefix}-master"
+echo stable_branch=$stable_branch
+branch_config=$(wget -O - $hudson_url/job/${stable_branch}/config.xml 2>/dev/null)
+if [ $? -ne 0 ] ; then
+    echo "no stable branch config found."
+    exit 0
+fi
+branches=()
+eval "$(git for-each-ref --shell --format='branches+=(%(refname:short))' refs/remotes/origin/)"
+for branch in "${branches[@]}"; do
+    if [ $branch != 'origin/HEAD' ]; then
+        new_branch="${project_prefix}-${branch:7}"
+        echo new_branch=$new_branch
+        wget -O - $hudson_url/job/${new_branch}/config.xml 2>dev/null
+        if [ $? -ne 0 ] ; then
+            #modify branch config
+            branch_config="${stable_config/<branch>master</<branch>$new_branch<}"
+            wget --header "Content-Type: text/xml" --post-data="$branch_config" -O - "$hudson_url/createItem?name=${new_branch}" >/dev/null 2>/dev/null
+            if [ $? -ne 0 ] ; then
+                echo "Could not create new Hudson job for ${new_branch}"
+                exit 0
+            fi
+        fi
+    fi
+done
+exit 0

@@ -1,0 +1,13 @@
+#!/bin/bash
+#build all branches
+git fetch
+git checkout master
+branches=()
+eval "$(git for-each-ref --shell --format='branches+=(%(refname:short))' refs/remotes/origin/)"
+for branch in "${branches[@]}"; do
+    if [ $branch != 'origin/HEAD' ]; then
+            echo $branch
+            sb=${branch:7} 
+            sleep 10
+    fi
+done
