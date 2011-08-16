@@ -1,0 +1,17 @@
+#!/bin/bash
+
+args=("$@")
+pullURL="${args[0]}"
+pullBranch="${args[1]}"
+mergeIntoBranch="${args[2]}"
+commitMessage="${args[3]}"
+
+git checkout $mergeIntoBranch
+git checkout -b "${mergeIntoBranch}-temp"
+
+git pull $pullURL $pullBranch
+git checkout $mergeIntoBranch
+git merge --squash "${mergeIntoBranch}-temp"
+git commit -m $commitMessage
+git push origin $mergeIntoBranch
+
