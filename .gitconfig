@@ -1,0 +1,22 @@
+[user]
+	name = Nukul Bhasin
+	email = me@nukulb.com
+[color]
+	diff = auto
+	ui = auto
+	interactive = auto
+	branch = auto
+	status = auto
+[log]
+	decorate = short
+[pager]
+	status = true
+	show-branch = true
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	cm = commit
+	br = branch
+[github]
+	user = nukulb
