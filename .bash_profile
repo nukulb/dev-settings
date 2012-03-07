@@ -1,7 +1,6 @@
-source ~/.rvm/scripts/rvm
-export PATH=$HOME/Documents/local/node/bin:/usr/local/bin:$PATH
 
 #****************************************alias****************************************************
+source ~/git-completion.bash
 alias chrome="open /Applications/Google\ Chrome.app/ --args -disable-web-security -start-maximized"
 alias gb='git branch'
 alias gba='git branch -a'
@@ -12,7 +11,11 @@ alias gp='git push'
 alias gst='git status'
 alias gr='git reset'
 alias pushgerrit='git push gerrit:webworks/webworks HEAD:refs/for/'
+alias mysql=/usr/local/mysql/bin/mysql
+alias mysqladmin=/usr/local/mysql/bin/mysqladmin
 #**************************showing git branches in bash prompt***********************************
+
+
 function is_git_dirty {
 
   [[ $(git status 2> /dev/null | tail -n1) != "nothing to commit (working directory clean)" ]] && echo "*"
@@ -65,19 +68,13 @@ export TERM="xterm-256color"
 
 
 ##
-# Your previous /Users/nukul2/.bash_profile file was backed up as /Users/nukul2/.bash_profile.macports-saved_2011-06-04_at_21:24:00
+# Your previous /Users/nukulb/.bash_profile file was backed up as /Users/nukulb/.bash_profile.macports-saved_2012-01-12_at_22:00:39
 ##
 
-# MacPorts Installer addition on 2011-06-04_at_21:24:00: adding an appropriate PATH variable for use with MacPorts.
+# MacPorts Installer addition on 2012-01-12_at_22:00:39: adding an appropriate PATH variable for use with MacPorts.
 export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 # Finished adapting your PATH environment variable for use with MacPorts.
 
+export BUGS_BOUNTY_DATABASE="DEV_DATA"
 
-##
-# Your previous /Users/nukul2/.bash_profile file was backed up as /Users/nukul2/.bash_profile.macports-saved_2011-07-21_at_11:14:49
-##
-
-# MacPorts Installer addition on 2011-07-21_at_11:14:49: adding an appropriate PATH variable for use with MacPorts.
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH
-# Finished adapting your PATH environment variable for use with MacPorts.
-
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
