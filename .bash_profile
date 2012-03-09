@@ -13,6 +13,11 @@ alias gr='git reset'
 alias pushgerrit='git push gerrit:webworks/webworks HEAD:refs/for/'
 alias mysql=/usr/local/mysql/bin/mysql
 alias mysqladmin=/usr/local/mysql/bin/mysqladmin
+alias glog='git log --oneline --decorate --graph'
+alias reload='source ~/.bash_profile'
+alias up='cd ..'
+alias 2up='cd .. && cd ..'
+alias 3up='cd .. && cd .. && cd ..'
 #**************************showing git branches in bash prompt***********************************
 
 
