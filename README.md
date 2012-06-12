@@ -1,5 +1,6 @@
 This repo is meant so that I can share my VIM settings with my team and between my development machines. Also serves as a great backup.
 
+
 #VIM
 All VIM settings are stored in the myVim folder.
 These are just a starting point, feel free to edit them as you wish.
