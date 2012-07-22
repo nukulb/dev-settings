@@ -4,9 +4,9 @@ source $VIMRUNTIME/mswin.vim
 
 behave mswin
 
-" feel free to choose :set background=light for a different style 
-set background=dark 
-colors twilight256 
+" feel free to choose :set background=light for a different style
+set background=dark
+colors twilight256
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Files and backups
@@ -16,7 +16,7 @@ set nobackup
 set nowb
 set noswapfile
 
-" allow switching of buffers without saving 
+" allow switching of buffers without saving
 " with great power comes great responsibility
 set hidden
 
@@ -51,7 +51,7 @@ function! CmdLine(str)
     exe "menu Foo.Bar :" . a:str
     emenu Foo.Bar
     unmenu Foo
-endfunction 
+endfunction
 
 " From an idea by Michael Naumann
 function! VisualSearch(direction) range
@@ -183,3 +183,7 @@ nmap <leader>sl :SessionList<CR>
 nmap <leader>ss :SessionSave<CR>
 " }
 nmap <F8> :TagbarToggle<CR>
+
+autocmd BufWritePre * :%s/\s\+$//e
+
+filetype plugin on

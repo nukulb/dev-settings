@@ -1,0 +1,554 @@
+VERSION	300
+mrucmd	data	{'word': ':wq', 'time': 1342965380}
+mrucmd	data	{'word': ':w', 'time': 1342964950}
+mrucmd	data	{'word': ':qa', 'time': 1342962071}
+mrucmd	data	{'word': ':set invpaste', 'time': 1342947411}
+mrucmd	data	{'word': ':bn', 'time': 1342947048}
+mrucmd	data	{'word': ':bp', 'time': 1342947046}
+mrucmd	data	{'word': ':qa!', 'time': 1342894882}
+mrucmd	data	{'word': ':so %', 'time': 1342894604}
+mrucmd	data	{'word': '/', 'time': 1342894492}
+mrucmd	data	{'word': '//c', 'time': 1342894379}
+mrucmd	data	{'word': ':helptags ~/.vim/doc ', 'time': 1342894071}
+mrucmd	data	{'word': ':s/^\/\/\/\//', 'time': 1342893689}
+mrucmd	data	{'word': ':s/^/\/\/:s/^\/\/\/\//', 'time': 1342893673}
+mrucmd	data	{'word': '/asda', 'time': 1342893603}
+mrucmd	data	{'word': ':s/^/#', 'time': 1342893575}
+mrucmd	data	{'word': ':q', 'time': 1342875735}
+mrucmd	data	{'word': '/Repo', 'time': 1342843205}
+mrucmd	data	{'word': ':%s/^M//g', 'time': 1342842606}
+mrucmd	data	{'word': ':Qa', 'time': 1342821880}
+mrucmd	data	{'word': '/sandbox', 'time': 1342732977}
+mrucmd	data	{'word': '/is used to build extensions.', 'time': 1342706012}
+mrucmd	data	{'word': ':set nonumber', 'time': 1342705996}
+mrucmd	data	{'word': ':Wq', 'time': 1342666401}
+mrucmd	data	{'word': ':qaa', 'time': 1342664196}
+mrucmd	data	{'word': ':bd1', 'time': 1342662479}
+mrucmd	data	{'word': ':''<,''>bp', 'time': 1342662469}
+mrucmd	data	{'word': '/LICENSE', 'time': 1342662076}
+mrucmd	data	{'word': '/jworkflow', 'time': 1342649577}
+mrucmd	data	{'word': '/zlib', 'time': 1342645900}
+mrucmd	data	{'word': '/glo:qa', 'time': 1342547200}
+mrucmd	data	{'word': '/enableWebInspector', 'time': 1342454240}
+mrucmd	data	{'word': '/SendPluginEv', 'time': 1342398667}
+mrucmd	data	{'word': '/SendPlugin', 'time': 1342391025}
+mrucmd	data	{'word': '/basic', 'time': 1342214246}
+mrucmd	data	{'word': '/token', 'time': 1342214165}
+mrucmd	data	{'word': '/invoke', 'time': 1342201088}
+mrucmd	data	{'word': '/trigger', 'time': 1342201075}
+mrucmd	data	{'word': ':%s/setEnableWebInspector/setEnabledOutOfProcessWebInspector', 'time': 1342189113}
+mrucmd	data	{'word': '/enableWebIn', 'time': 1342188977}
+mrucmd	data	{'word': '/inspect', 'time': 1342188952}
+mrucmd	data	{'word': '/inspector', 'time': 1342188948}
+mrucmd	data	{'word': '/webInspector', 'time': 1342188940}
+mrucmd	data	{'word': ':bd!', 'time': 1342173646}
+mrucmd	data	{'word': ':''<,''>bn', 'time': 1342173629}
+mrucmd	data	{'word': '/load', 'time': 1342170608}
+mrucmd	data	{'word': ':bd', 'time': 1342170176}
+mrucmd	data	{'word': '/getFeatureIdFunc', 'time': 1342169737}
+mrucmd	data	{'word': '/chrome.inter', 'time': 1342022093}
+mrucmd	data	{'word': '/url', 'time': 1342021903}
+mrucmd	data	{'word': '/loadU', 'time': 1342021884}
+mrucmd	data	{'word': ':q!', 'time': 1341674929}
+mrucmd	data	{'word': '/getStartupMode', 'time': 1341587099}
+mrucmd	data	{'word': ':qa~', 'time': 1341505520}
+mrucmd	data	{'word': '/webE', 'time': 1341342068}
+mrucmd	data	{'word': ':colo anotherdark', 'time': 1340795588}
+mrucmd	data	{'word': '/json', 'time': 1340709547}
+mrucmd	data	{'word': '/cpp', 'time': 1340709441}
+mrucmd	data	{'word': ':%s/mockedWebworks/mockedWebworks2', 'time': 1340708258}
+mrucmd	data	{'word': ':%s/mockedWebworks/io.mockedWebworks', 'time': 1340708172}
+mrucmd	data	{'word': ':e', 'time': 1340619573}
+mrucmd	data	{'word': ':set number', 'time': 1340615948}
+mrucmd	data	{'word': ':W', 'time': 1340574271}
+mrucmd	data	{'word': ':%s/FileSystemAPI/Archive', 'time': 1340566583}
+mrucmd	data	{'word': ':b', 'time': 1340537128}
+mrucmd	data	{'word': ':bl', 'time': 1340537124}
+mrucmd	data	{'word': ':colo adrian', 'time': 1340482669}
+mrucmd	data	{'word': ':colo asu1dark', 'time': 1340482660}
+mrucmd	data	{'word': ':colo oceandeep', 'time': 1340482272}
+mrucmd	data	{'word': ':colo darkbone', 'time': 1340482259}
+mrucmd	data	{'word': '/getQueryTargets', 'time': 1340462423}
+mrucmd	data	{'word': '/browser.rpc', 'time': 1340462114}
+mrucmd	data	{'word': '/webview', 'time': 1340462038}
+mrucmd	data	{'word': ':%s/AppAPI2/FileSystemAPI', 'time': 1340312995}
+mrucmd	data	{'word': ':%s/FileSystemAPI/AppAPI2', 'time': 1340303989}
+mrucmd	data	{'word': ':%s/WhitelistIframe/FileSystemAPI', 'time': 1340303702}
+mrucmd	data	{'word': ':%s/API2/API', 'time': 1340299572}
+mrucmd	data	{'word': '/requestContextMenuPermission', 'time': 1340298847}
+mrucmd	data	{'word': '/ASSETS', 'time': 1340219159}
+mrucmd	data	{'word': '/frame', 'time': 1340213661}
+mrucmd	data	{'word': ':%s/Archive/WhitelistIframe', 'time': 1340212320}
+mrucmd	data	{'word': ':%s/AppAPI2/Archive', 'time': 1340164506}
+mrucmd	data	{'word': '/new W', 'time': 1340163135}
+mrucmd	data	{'word': '/local', 'time': 1340161419}
+mrucmd	data	{'word': '/San:qa', 'time': 1340150390}
+mrucmd	data	{'word': '/type', 'time': 1340138151}
+mrucmd	data	{'word': '/J', 'time': 1340138137}
+mrucmd	data	{'word': '/execFunc', 'time': 1340137966}
+mrucmd	data	{'word': '/execSyn', 'time': 1340137861}
+mrucmd	data	{'word': ':e ext/blackberry.app/client.js', 'time': 1340116446}
+mrucmd	data	{'word': '/executeJava', 'time': 1340033064}
+mrucmd	data	{'word': '/exit', 'time': 1339983405}
+mrucmd	data	{'word': ':', 'time': 1339943294}
+mrucmd	data	{'word': ':set mouse=a', 'time': 1339905858}
+mrucmd	data	{'word': ':set onmouse', 'time': 1339905840}
+mrucmd	data	{'word': ':%s/^M//', 'time': 1339854610}
+mrucmd	data	{'word': ':%s/^M$//', 'time': 1339854603}
+mrucmd	data	{'word': '/invoked', 'time': 1339853540}
+mrucmd	data	{'word': '/invoked''', 'time': 1339637263}
+mrucmd	data	{'word': ':%s/Archive/AppAPI2', 'time': 1339605456}
+mrucmd	data	{'word': ':pwd', 'time': 1339601813}
+mrucmd	data	{'word': '/onInvoke', 'time': 1339582127}
+mrucmd	data	{'word': '/mockedApplicationWindow', 'time': 1339540092}
+mrucmd	data	{'word': ':%s/PauseResume/FileSystem', 'time': 1339537316}
+mrucmd	data	{'word': ':TagbarToggle', 'time': 1339535453}
+mrucmd	data	{'word': ':toggle bar', 'time': 1339535328}
+mrucmd	data	{'word': ':b 5', 'time': 1339535244}
+mrucmd	data	{'word': '/FileRead', 'time': 1339533379}
+mrucmd	data	{'word': '/data', 'time': 1339533302}
+mrucmd	data	{'word': '/blob', 'time': 1339533083}
+mrucmd	data	{'word': '/getEnv', 'time': 1339525813}
+mrucmd	data	{'word': '/ACTION', 'time': 1339506340}
+mrucmd	data	{'word': ':.,.+1bp', 'time': 1339502168}
+mrucmd	data	{'word': ':e!', 'time': 1339498754}
+mrucmd	data	{'word': '/startupMode', 'time': 1339498590}
+mrucmd	data	{'word': '/getApplication', 'time': 1339497568}
+mrucmd	data	{'word': '/env', 'time': 1339470715}
+mrucmd	data	{'word': ':b 12', 'time': 1339470711}
+mrucmd	data	{'word': ':b 3', 'time': 1339470492}
+mrucmd	data	{'word': ':b 2', 'time': 1339470490}
+mrucmd	data	{'word': ':e lib/framework.js', 'time': 1339452597}
+mrucmd	data	{'word': ':wqa', 'time': 1339444774}
+mrucmd	data	{'word': ':%s/invokie/InvokeAppMultiFilters01', 'time': 1339444213}
+mrucmd	data	{'word': ':%s/PauseResumeAPI/InvokeAppMultiFilters01', 'time': 1339426406}
+mrucmd	data	{'word': '/executeJavaScript', 'time': 1339375567}
+mrucmd	data	{'word': ':%s/Links/PauseResumeAPI', 'time': 1339375240}
+mrucmd	data	{'word': ':%s/navigator/application', 'time': 1339375160}
+mrucmd	data	{'word': '/navigator', 'time': 1339375124}
+mrucmd	data	{'word': '/Normal', 'time': 1339374364}
+mrucmd	data	{'word': '/visible', 'time': 1339371497}
+mrucmd	data	{'word': ':%s/PauseResumeAPI/Links', 'time': 1339369867}
+mrucmd	data	{'word': ':%s/AppAPI/PauseResumeAPI', 'time': 1339368424}
+mrucmd	data	{'word': ':bd 3', 'time': 1339238058}
+mrucmd	data	{'word': ':e README.MD', 'time': 1339195169}
+mrucmd	data	{'word': '/_webview', 'time': 1339189625}
+mrucmd	data	{'word': ':b 1', 'time': 1339185911}
+mrucmd	data	{'word': '/hash', 'time': 1339066042}
+mrucmd	data	{'word': '/remote', 'time': 1338994594}
+mrucmd	data	{'word': '/file', 'time': 1338994547}
+mrucmd	data	{'word': ':w!', 'time': 1338979649}
+mrucmd	data	{'word': ':sudo w', 'time': 1338979614}
+mrucmd	data	{'word': ':!wq', 'time': 1338979603}
+mrucmd	data	{'word': '/basic_', 'time': 1338979477}
+mrucmd	data	{'word': '/disableFileSystem', 'time': 1338976596}
+mrucmd	data	{'word': '/disable', 'time': 1338976510}
+mrucmd	data	{'word': '/enable', 'time': 1338974525}
+mrucmd	data	{'word': ':e bin/merging-2-repos', 'time': 1338649356}
+mrucmd	data	{'word': ':w bin/merging-2-repos', 'time': 1338649345}
+mrucmd	data	{'word': '/comments', 'time': 1338639829}
+mrucmd	data	{'word': ':set paste', 'time': 1338489017}
+mrucmd	data	{'word': ':1', 'time': 1338409957}
+mrucmd	data	{'word': ':''<,''>qa', 'time': 1338403722}
+mrucmd	data	{'word': ':e bin/getIssues', 'time': 1338401906}
+mrucmd	data	{'word': ':2', 'time': 1338374216}
+mrucmd	data	{'word': ':wa', 'time': 1338371723}
+mrucmd	data	{'word': '/length', 'time': 1338340423}
+mrucmd	data	{'word': ':%s/testComplete/issueStated', 'time': 1338340140}
+mrucmd	data	{'word': '/asfa;fj', 'time': 1338234041}
+mrucmd	data	{'word': ':bufdo w', 'time': 1338203315}
+mrucmd	data	{'word': '/console', 'time': 1338203309}
+mrucmd	data	{'word': '/console.log', 'time': 1338203283}
+mrucmd	data	{'word': ':%s/codeReview/testComplete', 'time': 1338202649}
+mrucmd	data	{'word': ':%s/codeReview/testing', 'time': 1338202501}
+mrucmd	data	{'word': ':bd ', 'time': 1338121270}
+mrucmd	data	{'word': ':bd 5', 'time': 1338121259}
+mrucmd	data	{'word': '/.mmzcz', 'time': 1338094468}
+mrucmd	data	{'word': '/)', 'time': 1338094094}
+mrucmd	data	{'word': ':e lib/hudson.js', 'time': 1338072459}
+mrucmd	data	{'word': '/ads;ka;sd', 'time': 1338066699}
+mrucmd	data	{'word': '/conditions', 'time': 1338066642}
+mrucmd	data	{'word': '/);', 'time': 1338042766}
+mrucmd	data	{'word': '/))', 'time': 1338042741}
+mrucmd	data	{'word': ':cmd mkdir lib/conditions.js', 'time': 1338036792}
+mrucmd	data	{'word': ':%s/Webview/', 'time': 1338031929}
+mrucmd	data	{'word': ':%s/WebView/', 'time': 1338031916}
+mrucmd	data	{'word': ':sudo wq', 'time': 1338031632}
+mrucmd	data	{'word': '/add', 'time': 1337807587}
+mrucmd	data	{'word': '/addEvent', 'time': 1337807581}
+mrucmd	data	{'word': ':JL', 'time': 1337696987}
+mrucmd	data	{'word': ':JT', 'time': 1337696980}
+mrucmd	data	{'word': ':JJ', 'time': 1337696962}
+mrucmd	data	{'word': ':e jake.vim', 'time': 1337690138}
+mrucmd	data	{'word': ':jake.vim', 'time': 1337690130}
+mrucmd	data	{'word': ':MM', 'time': 1337688575}
+mrucmd	data	{'word': ':Jake', 'time': 1337688075}
+mrucmd	data	{'word': ':jake', 'time': 1337687994}
+mrucmd	data	{'word': ':1Jake', 'time': 1337687609}
+mrucmd	data	{'word': '::Qa', 'time': 1337687054}
+mrucmd	data	{'word': '/JavascriptLint', 'time': 1337686951}
+mrucmd	data	{'word': '/save', 'time': 1337686602}
+mrucmd	data	{'word': '/exts', 'time': 1337655378}
+mrucmd	data	{'word': '/hogan', 'time': 1337541272}
+mrucmd	data	{'word': ':e build/build/compile-ui.js', 'time': 1337529800}
+mrucmd	data	{'word': ':Q', 'time': 1337521664}
+mrucmd	data	{'word': '/controller', 'time': 1337479193}
+mrucmd	data	{'word': ':e lib/bar-conf.js', 'time': 1337476459}
+mrucmd	data	{'word': '/prepare', 'time': 1337475418}
+mrucmd	data	{'word': '/LIB', 'time': 1337474345}
+mrucmd	data	{'word': '/lib', 'time': 1337474322}
+mrucmd	data	{'word': '/copyExte', 'time': 1337473903}
+mrucmd	data	{'word': '/locals', 'time': 1337471912}
+mrucmd	data	{'word': '/HTMLROOT', 'time': 1337471742}
+mrucmd	data	{'word': ':e build/build/tmpl.js', 'time': 1337467699}
+mrucmd	data	{'word': '/github-nukulb/bbwp', 'time': 1337430842}
+mrucmd	data	{'word': '/         bbwp.bat      dependencies/ lib/          licenses.txt  node_modules/ ', 'time': 1337430842}
+mrucmd	data	{'word': '/cp -fr ../BB10-WebWorks-Framework/target/zip/. ', 'time': 1337430842}
+mrucmd	data	{'word': '/rm -fr Framework/', 'time': 1337430842}
+mrucmd	data	{'word': '/zip', 'time': 1337428162}
+mrucmd	data	{'word': ':e ~/github-nukulb/NOT-WW-Test-App/ui/index.html            ', 'time': 1337425892}
+mrucmd	data	{'word': ':e dependencies/webplatform/framework/lib/WebView.js', 'time': 1337422626}
+mrucmd	data	{'word': ':e ', 'time': 1337374401}
+mrucmd	data	{'word': ':e ~/BB10-WebWorks-Framework lib/webview.js', 'time': 1337374394}
+mrucmd	data	{'word': '/^M', 'time': 1337373943}
+mrucmd	data	{'word': ':%s/\^M//g', 'time': 1337373846}
+mrucmd	data	{'word': ':%s/^V^M//g', 'time': 1337373813}
+mrucmd	data	{'word': ':e ~/github-nukulb/browser html/lib/index.js          ', 'time': 1337363350}
+mrucmd	data	{'word': ':!cp index.html index-2.html', 'time': 1337291831}
+mrucmd	data	{'word': ':e ~/github-nukulb/browser/html/lib/chrome/tabs.js ', 'time': 1337290940}
+mrucmd	data	{'word': '/asdasd', 'time': 1337290897}
+mrucmd	data	{'word': '/l', 'time': 1337290879}
+mrucmd	data	{'word': '/                              |224             tabId = parseInt(qnx.callExtensionMethod(''webview.create'', windowGroup, 1), 10);', 'time': 1337290831}
+mrucmd	data	{'word': '/windowGroup = qnx.callExtensionMethod(''webview.applicationWindowGroup'', iris.chromeId),', 'time': 1337290831}
+mrucmd	data	{'word': '/create', 'time': 1337290199}
+mrucmd	data	{'word': '/scm', 'time': 1337113948}
+mrucmd	data	{'word': '/ci', 'time': 1337112822}
+mrucmd	data	{'word': '/sudo', 'time': 1337031915}
+mrucmd	data	{'word': '/Total errors', 'time': 1337023379}
+mrucmd	data	{'word': '/autoOrients', 'time': 1336919264}
+mrucmd	data	{'word': ':lvim index.html *.js', 'time': 1336911239}
+mrucmd	data	{'word': ':lvim \index.html\ *.js', 'time': 1336911174}
+mrucmd	data	{'word': ':%s/pick/f', 'time': 1336755473}
+mrucmd	data	{'word': ':s/pick/f', 'time': 1336755454}
+mrucmd	data	{'word': ':s/pick/f/g', 'time': 1336755438}
+mrucmd	data	{'word': '/pick/f', 'time': 1336755400}
+mrucmd	data	{'word': '/event', 'time': 1336514270}
+mrucmd	data	{'word': ':call C_Indent()', 'time': 1336395146}
+mrucmd	data	{'word': ':call C_SplintArguments()', 'time': 1336395130}
+mrucmd	data	{'word': ':call C_HlMessage()', 'time': 1336395075}
+mrucmd	data	{'word': ':call C_Compile()', 'time': 1336395074}
+mrucmd	data	{'word': ':jsl:option explicit', 'time': 1336387655}
+mrucmd	data	{'word': ':noh', 'time': 1336160072}
+mrucmd	data	{'word': ':e .gitignore', 'time': 1336159515}
+mrucmd	data	{'word': '/PR', 'time': 1336076743}
+mrucmd	data	{'word': '/main', 'time': 1336073489}
+mrucmd	data	{'word': '/as;djas;''dka', 'time': 1336073277}
+mrucmd	data	{'word': '/gtest', 'time': 1336073252}
+mrucmd	data	{'word': '/PROF', 'time': 1336071242}
+mrucmd	data	{'word': '/CMAKE_SRC', 'time': 1336056447}
+mrucmd	data	{'word': '/include', 'time': 1336056401}
+mrucmd	data	{'word': '/arm', 'time': 1336054448}
+mrucmd	data	{'word': '/a9', 'time': 1336054441}
+mrucmd	data	{'word': ':CtrlPBuffer', 'time': 1336040742}
+mrucmd	data	{'word': '/git_commit', 'time': 1335551183}
+mrucmd	data	{'word': ':e build/build/build-native.js', 'time': 1335545210}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/.git/COMMIT_EDITMSG', 'time': 1342965380}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/build/native-test.js', 'time': 1342964950}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/build/conf.js', 'time': 1342964582}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/build/build-native.js', 'time': 1342964572}
+mrufile	data	{'word': '/Users/nukulb/awesome_commands', 'time': 1342962997}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/dependencies/webplatform/framework/lib/invocation.js', 'time': 1342961996}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/Jakefile', 'time': 1342956695}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/build/utils.js', 'time': 1342956200}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/lint.js', 'time': 1342956200}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/lint/reporter.js', 'time': 1342956200}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/build/bundler.js', 'time': 1342956102}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/native-test.js', 'time': 1342956088}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/invocation.js', 'time': 1342950405}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/.git/COMMIT_EDITMSG', 'time': 1342949114}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/README.txt', 'time': 1342948799}
+mrufile	data	{'word': '/Users/nukulb/Downloads/tcomment.vba', 'time': 1342894596}
+mrufile	data	{'word': '/Users/nukulb/.vimrc', 'time': 1342894154}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/build.js', 'time': 1342893352}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/test.js', 'time': 1342893314}
+mrufile	data	{'word': '/Users/nukulb/.ssh/known_hosts', 'time': 1342876439}
+mrufile	data	{'word': '/Users/nukulb/.bash_profile', 'time': 1342876029}
+mrufile	data	{'word': '/usr/bin/keychain', 'time': 1342875987}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/connection/native/unitTests/test_main.cpp', 'time': 1342875423}
+mrufile	data	{'word': '/Users/nukulb/.ssh/id_rsa.pub', 'time': 1342845917}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/scripts/LoadTestSH_mac', 'time': 1342845715}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/scripts/LoadTestSH', 'time': 1342842507}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/io.filetransfer/native/CMakeLists.txt', 'time': 1342821872}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/io.filetransfer/native/unitTests/CMakeLists.txt', 'time': 1342821568}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/ui.dialog/native/CMakeLists.txt', 'time': 1342821287}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/third_party/jnext/jnext-patch.txt', 'time': 1342820285}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/third_party/jnext-patch.txt', 'time': 1342820034}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/nfc.js', 'time': 1342816370}
+mrufile	data	{'word': '/Users/nukulb/reviews/packager/.git/COMMIT_EDITMSG', 'time': 1342815461}
+mrufile	data	{'word': '/Users/nukulb/reviews/packager/.git/modules/Framework/MERGE_MSG', 'time': 1342815204}
+mrufile	data	{'word': '/Users/nukulb/reviews/framework/.git/COMMIT_EDITMSG', 'time': 1342814552}
+mrufile	data	{'word': '/Users/nukulb/reviews/framework/.git/rebase-merge/git-rebase-todo', 'time': 1342813965}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/.git/MERGE_MSG', 'time': 1342804176}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/clipboard.js', 'time': 1342800255}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/i18n.js', 'time': 1342792031}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/windowAnimations.js', 'time': 1342792023}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/utils.js', 'time': 1342792017}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/swoop.js', 'time': 1342791989}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/history.js', 'time': 1342791976}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/file.chooser.js', 'time': 1342791917}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/file.picker.js', 'time': 1342791914}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/.git/rebase-merge/git-rebase-todo', 'time': 1342748300}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/target/zip/dependencies/bootstrap/webplatform.js', 'time': 1342732968}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/chrome/index.html', 'time': 1342711447}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/licenses.txt', 'time': 1342706054}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/licenses.txt', 'time': 1342705977}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/README.md', 'time': 1342705866}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/README.md', 'time': 1342705681}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/build/pack.js', 'time': 1342669393}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/LICENSE', 'time': 1342667464}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/target/zip/README.txt', 'time': 1342666900}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/build/build/conf.js', 'time': 1342666646}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/build/build/pack.js', 'time': 1342666555}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/configure', 'time': 1342665992}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/patch.txt', 'time': 1342663992}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/dependencies/cpplint/cpplint.py', 'time': 1342663163}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/target/zip/clientFiles/webworks-1.0.0.7.js', 'time': 1342662929}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/build/compile-ui.js', 'time': 1342662302}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/build/FILE_LICENSE', 'time': 1342662269}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/dependencies/jnext_1_0_8_3/jncore/jnext-extensions/common/tokenizer.cpp', 'time': 1342646020}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/.gitmodules', 'time': 1342645532}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.push/native/unitTests/CMakeLists.txt', 'time': 1342642867}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.connection/native/unitTests/CMakeLists.txt', 'time': 1342642189}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.io.filetransfer/native/unitTests/CMakeLists.txt', 'time': 1342642010}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/.git/COMMIT_EDITMSG', 'time': 1342598501}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/index.html', 'time': 1342598434}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/samples/.git/COMMIT_EDITMSG', 'time': 1342548126}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/internal-samples/.git/COMMIT_EDITMSG', 'time': 1342547444}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/internal-samples/README.md', 'time': 1342547425}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/internal-samples/.git/MERGE_MSG', 'time': 1342547337}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/dependencies/jnext_1_0_8_3/jncore/jnext-extensions/common/plugin.h', 'time': 1342450966}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.connection/native/CMakeLists.txt', 'time': 1342399591}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/dependencies/jnext_1_0_8_3/jncore/jnext-extensions/common/plugin.cpp', 'time': 1342398648}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.connection/native/connection_js.cpp', 'time': 1342391012}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.connection/native/connection_js.hpp', 'time': 1342390502}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.connection/native/connection_bps.hpp', 'time': 1342390497}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.io.filetransfer/native/CMakeLists.txt', 'time': 1342389821}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/blackberry.push/native/CMakeLists.txt', 'time': 1342383168}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/internal-samples/.git/rebase-merge/git-rebase-todo', 'time': 1342353829}
+mrufile	data	{'word': '/usr/local/bin/hub', 'time': 1342214149}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/invoke/invocationEvents.js', 'time': 1342201136}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/invoke/index.js', 'time': 1342201066}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/options', 'time': 1342192693}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/jnext.js', 'time': 1342192586}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/webview.js', 'time': 1342190604}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/public/window-webworks.js', 'time': 1342189017}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/public/builder.js', 'time': 1342189015}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/public/manifest.js', 'time': 1342189015}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/app/manifest.json', 'time': 1342189002}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/ext/app/client.js', 'time': 1342189001}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/bd.sh', 'time': 1342188523}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/README.MD', 'time': 1342188462}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/request.js', 'time': 1342173618}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/README.md', 'time': 1342172384}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/plugins/extensions.js', 'time': 1342170929}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/utils.js', 'time': 1342170928}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/server.js', 'time': 1342170169}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/plugins/default.js', 'time': 1342170169}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/.git/MERGE_MSG', 'time': 1342099656}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/pullrequest-spy/issues.txt', 'time': 1342037821}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/pullrequest-spy/bin/getIssues', 'time': 1342037540}
+mrufile	data	{'word': '/Users/nukulb/browser/qconf-override.mk', 'time': 1342028687}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/controllerWebView.js', 'time': 1342022310}
+mrufile	data	{'word': '/Users/nukulb/browser/libwebview/WebView.cpp', 'time': 1342021873}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/framework.js', 'time': 1342021455}
+mrufile	data	{'word': '/Users/nukulb/browser/libwebview/WebPageClientImpl.cpp', 'time': 1342019968}
+mrufile	data	{'word': '/Users/nukulb/browser/libwebview/WebPageWindow.cpp', 'time': 1342019955}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/WebView.cpp', 'time': 1342019814}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/lib/network.js', 'time': 1341939304}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/test/unit/lib/network.js', 'time': 1341939116}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/docs/build/README.md', 'time': 1341934465}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/dependencies/webplatform/jnext_1_0_8_3/jncore/jnext-extensions/qtest/qtest.cpp', 'time': 1341871172}
+mrufile	data	{'word': '/Users/nukulb/Downloads/pullmybeard/assets/pullmybeard.qml', 'time': 1341870329}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/packager/.git/modules/Framework/MERGE_MSG', 'time': 1341846632}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/framework/.git/config', 'time': 1341758444}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/docs/.git/COMMIT_EDITMSG', 'time': 1341675974}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/.git/MERGE_MSG', 'time': 1341674919}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/.git/COMMIT_EDITMSG', 'time': 1341609963}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.app/client.js', 'time': 1341602558}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.app/client.js', 'time': 1341602473}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/plugins/default.js', 'time': 1341602466}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/request.js', 'time': 1341602311}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/framework.js', 'time': 1341601959}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/webplatform/framework/lib/invocation.js', 'time': 1341601957}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/webplatform/framework/lib/WebView.js', 'time': 1341601957}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-Webworks-Packager/.git/COMMIT_EDITMSG', 'time': 1341597366}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/target/zip/dependencies/bootstrap/webplatform.js', 'time': 1341587091}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/build/build.js', 'time': 1341514164}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/log.txt', 'time': 1341513015}
+mrufile	data	{'word': '/Users/nukulb/.scm_breeze/git.scmbrc.example', 'time': 1341413099}
+mrufile	data	{'word': '/Users/nukulb/.scm_breeze/scmbrc.example', 'time': 1341413087}
+mrufile	data	{'word': '/Users/nukulb/.scm_breeze/scm_breeze.sh', 'time': 1341413067}
+mrufile	data	{'word': '/Users/nukulb/.scmbrc', 'time': 1341413052}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/webview.js', 'time': 1341342430}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/webplatform/framework/clientFiles/webplatform.js', 'time': 1341342144}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/bootstrap/index.html', 'time': 1341340783}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-23/update3.sh', 'time': 1341340096}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/pullrequest-spy/bin/merge-repos', 'time': 1340975838}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/pullrequest-spy/bin/import-issues.py', 'time': 1340975827}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-21/update3.sh', 'time': 1340975392}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.invoke/invocationEvents.js', 'time': 1340912674}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.invoke/index.js', 'time': 1340912671}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/Application.cpp', 'time': 1340888610}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/WebView.h', 'time': 1340888598}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/WebView_p.h', 'time': 1340888595}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/BindingManager.h', 'time': 1340888591}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/BindingManager.cpp', 'time': 1340888586}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/server.js', 'time': 1340829829}
+mrufile	data	{'word': '/Users/nukulb/Library/Caches/TemporaryItems/Outlook Temp/HDCoverExample[2].as', 'time': 1340795580}
+mrufile	data	{'word': '/Users/nukulb/Library/Caches/TemporaryItems/Outlook Temp/HDCoverExample.as', 'time': 1340795566}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-Webworks-Packager/lib/config-parser.js', 'time': 1340791306}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.app/index.js', 'time': 1340731763}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/.git/config', 'time': 1340709544}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/.gitmodules', 'time': 1340709539}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.io/client.js', 'time': 1340708780}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.system/client.js', 'time': 1340708730}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.identity/client.js', 'time': 1340708642}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.invoke/index.js', 'time': 1340708550}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.io/client.js', 'time': 1340708539}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.io/client', 'time': 1340707996}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/application.js', 'time': 1340619573}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/public/window-webworks.js', 'time': 1340619254}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/public/window.js', 'time': 1340615852}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/patch.txt', 'time': 1340582666}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.app/navEvents.js', 'time': 1340574176}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-latest/update3.sh', 'time': 1340568379}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-splash/update3.sh', 'time': 1340566591}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.system/client.js', 'time': 1340542416}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.invoke/client.js', 'time': 1340541692}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.identity/client.js', 'time': 1340541687}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.system/index.js', 'time': 1340541515}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/public/event.js', 'time': 1340539669}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/public/builder.js', 'time': 1340539662}
+mrufile	data	{'word': '/Users/nukulb/github-blackberry/BB10-WebWorks-Framework/build/test.js', 'time': 1340482330}
+mrufile	data	{'word': '/Users/nukulb/github-blackberry/BB10-WebWorks-Framework/build/build.js', 'time': 1340482325}
+mrufile	data	{'word': '/Applications/MacPorts/MacVim.app/Contents/Resources/vim/runtime/syntax/colortest.vim', 'time': 1340482193}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/bar-resources/enterprise/bar-descriptor.xml', 'time': 1340474755}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/bar-resources/normal/bar-descriptor.xml', 'time': 1340474751}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/rpc/server.js', 'time': 1340463136}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/rpc/client.js', 'time': 1340463114}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ui-resources/plugins/contextmenu/index.js', 'time': 1340462971}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/event.js', 'time': 1340462795}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/rpc.js', 'time': 1340462612}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/plugins/tabbar/index.js', 'time': 1340462005}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/WebWorks-API-Docs/.git/COMMIT_EDITMSG', 'time': 1340313631}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/Jakefile', 'time': 1340308651}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-invoke/update3.sh', 'time': 1340299574}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.device/client.js', 'time': 1340277888}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.device/client.js', 'time': 1340277865}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/plugins/extensions.js', 'time': 1340276205}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/plugins/bridge.js', 'time': 1340241879}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/build/build/compile-ui.js', 'time': 1340225101}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/build/build/utils.js', 'time': 1340224310}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ui-resources/ui.html', 'time': 1340224223}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/build/build/pack.js', 'time': 1340224208}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/configure', 'time': 1340220430}
+mrufile	data	{'word': '/Users/nukulb/BB10-WebWorks-Framework/build/build.js', 'time': 1340220040}
+mrufile	data	{'word': '/Users/nukulb/BB10-WebWorks-Framework/Jakefile', 'time': 1340220024}
+mrufile	data	{'word': '/Users/nukulb/BB10-WebWorks-Framework/build/lint.js', 'time': 1340219979}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/overlayWebView.js', 'time': 1340219418}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/jnext.js', 'time': 1340219387}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/utils.js', 'time': 1340163091}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/lib/request.js', 'time': 1340161466}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/lib/policy/whitelist.js', 'time': 1340161326}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/policy/whitelist.js', 'time': 1340161299}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-splash/Framework/dependencies/bootstrap/webplatform.js', 'time': 1340150149}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.ui.dialog/native/dialog_js.cpp', 'time': 1340138223}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.ui.dialog/native/dialog_bps.cpp', 'time': 1340138218}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.connection/native/connection_js.cpp', 'time': 1340138154}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.connection/native/connection_js.hpp', 'time': 1340138148}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.connection/connectionJNEXT.js', 'time': 1340138112}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.connection/index.js', 'time': 1340138100}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.connection/client.js', 'time': 1340138097}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/target/zip/clientFiles/webworks-1.0.0.7.js', 'time': 1340137957}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/webkitEvent.js', 'time': 1340137591}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/blackberry-tablet.xml', 'time': 1340104260}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-Webworks-Packager/.git/rebase-merge/git-rebase-todo', 'time': 1340057918}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.event/index.js', 'time': 1340033666}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/WebWorks-API-Docs/api/blackberry_app.js', 'time': 1339983432}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/functional/blackberry.app.js', 'time': 1339981829}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/functional/blackberry.invoke.js', 'time': 1339981762}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-splash/dependencies/bar-dependencies/device/jnext/auth.txt', 'time': 1339965637}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-splash/lib/bar-builder.js', 'time': 1339964761}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-splash/lib/conf.js', 'time': 1339964744}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-splash/lib/bbwp.js', 'time': 1339964732}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/index.js', 'time': 1339964658}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/options-backup', 'time': 1339964420}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/webfs.helper.js', 'time': 1339964225}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/ppsJsonReader.js', 'time': 1339964206}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/index.html', 'time': 1339964125}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/webview.js', 'time': 1339964080}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/html/lib/iris/ppsutil.js', 'time': 1339964069}
+mrufile	data	{'word': '/Users/nukulb/browser/browser/barPackager.sh', 'time': 1339963955}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/blackberry-tablet.xml-b', 'time': 1339963716}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/NOT-WW-Test-App/.gitignore', 'time': 1339963039}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-next/device/AppAPI2.bar', 'time': 1339935592}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-next/update3.sh', 'time': 1339935489}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-invoke/update2.sh', 'time': 1339935372}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-invoke/device/AppAPI2.bar', 'time': 1339909906}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/WebViewManager.cpp', 'time': 1339905787}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/CMakeLists.txt', 'time': 1339905773}
+mrufile	data	{'word': '/Users/nukulb/browser/webplatform/src/Application.h', 'time': 1339905725}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/WebWorks-API-Docs/api/blackberry_invoke.js', 'time': 1339857887}
+mrufile	data	{'word': '/Users/nukulb/.gitconfig', 'time': 1339857692}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/WebWorks-API-Docs/.git/rebase-merge/git-rebase-todo', 'time': 1339855356}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-invoke/update.sh', 'time': 1339794959}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/BB10-WebWorks-Framework/ext/blackberry.identity/rough.js', 'time': 1339769965}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/BB10-WebWorks-Framework/.git/COMMIT_EDITMSG', 'time': 1339755619}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/BB10-WebWorks-Framework/dependencies/webplatform/.git/COMMIT_EDITMSG', 'time': 1339755558}
+mrufile	data	{'word': '/Users/nukulb/BB10-WebWorks-Framework/.git/config', 'time': 1339673341}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.invoke/invocationEvents.js', 'time': 1339672116}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.ui.dialog/index.js', 'time': 1339611624}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/webplatform/.git/COMMIT_EDITMSG', 'time': 1339611189}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/webplatform/framework/lib/Application.js', 'time': 1339610928}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/webplatform/framework/test/unit/lib/Application.js', 'time': 1339610889}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.identity/index.js', 'time': 1339609508}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.app/index.js', 'time': 1339609508}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.ui.dialog/client.js', 'time': 1339606464}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.ui.dialog/client.js', 'time': 1339602929}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/.git/rebase-merge/git-rebase-todo', 'time': 1339584942}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.invoke/client.js', 'time': 1339582166}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/lib/webview.js', 'time': 1339540127}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-2/update.sh', 'time': 1339537324}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp/update.sh', 'time': 1339537270}
+mrufile	data	{'word': '/Users/nukulb/dev-settings/.git/COMMIT_EDITMSG', 'time': 1339535611}
+mrufile	data	{'word': '/Users/nukulb/dev-settings/README.md', 'time': 1339535586}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/exception.js', 'time': 1339535393}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/config.js', 'time': 1339535239}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/webplatform/.git/rebase-merge/git-rebase-todo', 'time': 1339526964}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-invoke/Framework/dependencies/bootstrap/webplatform.js', 'time': 1339525807}
+mrufile	data	{'word': '/Users/nukulb/Downloads/bbwp/update.sh', 'time': 1339523081}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/.git/COMMIT_EDITMSG', 'time': 1339521807}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/.git/rebase-merge/git-rebase-todo', 'time': 1339521399}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.event/index.js', 'time': 1339514048}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/ext/blackberry.system/index.js', 'time': 1339513979}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/dependencies/webplatform/framework/lib/events.js', 'time': 1339510938}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/test/unit/lib/invocation.js', 'time': 1339476426}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/lib/invocation.js', 'time': 1339476426}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/test/integration/clientFiles/webplatform.js', 'time': 1339476319}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/test/unit/lib/Application.js', 'time': 1339476315}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/lib/event.js', 'time': 1339476108}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/lib/event.js', 'time': 1339476108}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/lib/Application.js', 'time': 1339475912}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/configure', 'time': 1339474163}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/test/unit/lib/WebView.js', 'time': 1339473836}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/test/mockedObjects.js', 'time': 1339473833}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-invoke/my_if_sender/src/main.c', 'time': 1339466914}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-invoke/my_if_sender/Device-Debug/src/main.o', 'time': 1339466896}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/BB10-WebWorks-Framework/.git/rebase-merge/git-rebase-todo', 'time': 1339434669}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/bbwp-invoke/InvokeAppMultiFilters01/index.htm', 'time': 1339429030}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/ext/blackberry.event/client.js', 'time': 1339412465}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/test/unit/lib/framework.js', 'time': 1339380219}
+mrufile	data	{'word': '/Users/nukulb/github-reviews/BB10-WebWorks-Framework/.git/PULLREQ_EDITMSG', 'time': 1339376165}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/framework/lib/WebView.js', 'time': 1339374586}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/src/WebView.cpp', 'time': 1339238037}
+mrufile	data	{'word': '/Users/nukulb/github-nukulb/webplatform/src/WebView.h', 'time': 1339238017}
