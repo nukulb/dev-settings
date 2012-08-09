@@ -1,0 +1,18 @@
+#!/bin/bash
+#run script with next feature-branch reviewer tester
+cd $5
+git fetch
+git checkout $1
+git pull origin $1
+git checkout $2
+git rebase $1
+git checkout $1
+git merge $2
+rev="\"Reviewed By: $3\""
+test="\"tested By: $4\""
+cmd=" cat && echo && echo "$rev"  && echo "$test" "
+echo $cmd
+gitcmd="git filter-branch -f --msg-filter ' "$cmd" ' HEAD~1^..HEAD"
+echo $gitcmd
+eval $gitcmd
+
