@@ -1,5 +1,12 @@
 #!/bin/bash
 #run script with next feature-branch reviewer tester framework
+usage(){
+    echo './merge next feature-branch "reviewer" "tester" project'
+    exit 1
+}
+
+[[ $# -eq 0 ]] && usage
+
 cd $5
 git fetch
 git checkout $1
@@ -8,7 +15,6 @@ git checkout $2
 git rebase $1
 git checkout $1
 git merge $2
-git push origin :$2
 rev="\"Reviewed By: $3\""
 test="\"tested By: $4\""
 cmd=" cat && echo && echo "$rev"  && echo "$test" "
@@ -17,3 +23,4 @@ gitcmd="git filter-branch -f --msg-filter ' "$cmd" ' HEAD~1..HEAD"
 echo $gitcmd
 eval $gitcmd
 
+git push origin :$2
