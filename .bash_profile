@@ -24,11 +24,12 @@ alias next='git checkout next'
 alias prev='git checkout @{-1}'
 #**************************showing git branches in bash prompt***********************************
 
+export JAVA_HOME=$(/usr/libexec/java_home -v 1.6)
 
 
 function is_git_dirty {
 
-  [[ $(git status 2> /dev/null | tail -n1) != "nothing to commit (working directory clean)" ]] && echo "*"
+  [[ $(git status 2> /dev/null | tail -n1) != "nothing to commit, working directory clean" ]] && echo "*"
 }
 function parse_git_branch {
   git branch --no-color 2> /dev/null | sed -e '/^[^*]/d' -e "s/* \(.*\)/[\1$(is_git_dirty)]/"
